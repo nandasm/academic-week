@@ -18,6 +18,8 @@
    Reworked to use chdir and avoid recursion, and later, rewritten
    once again, to use fts, by Jim Meyering.  */
 
+// rm stands for Rossi Melo
+
 #include <config.h>
 #include <stdio.h>
 #include <getopt.h>
